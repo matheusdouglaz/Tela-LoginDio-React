@@ -20,7 +20,7 @@ const Login = () => {
     const navigate = useNavigate();
 
   const handleClickHome = () => {
-    navigate('/user-feed');
+    navigate('/feed');
   }
   return (
     <>
